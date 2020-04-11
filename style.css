@@ -1,0 +1,80 @@
+/* votre code CSS */
+
+h1 {
+    color: red;
+    font-family : comic sans ms, times;
+    font-size: 16px;
+    text-align: center;
+  }
+  
+  
+  #mapid {
+    height: calc(100vh - 150px)
+    }
+  
+    .popupImage {
+      height: calc(30vh - 35px)
+  }
+
+  #searchInput{
+    border: transparent;
+    border-radius: 50px;
+    height: 25px;
+    width: 300px;
+    font-size: 1.2em;
+    margin-top:-5px;
+    z-index: 1;
+    border: 6px solid blue;
+     }
+
+   #bouton {
+
+    border: 2px solid blue;
+    height: 30px;
+    margin-top: 1px;
+    margin-left: 5px;
+ 
+   }
+
+   .concert1 {
+    border: 3px solid blue;
+    margin-left: auto;
+    margin-right: auto;
+    width: 6em;
+   
+   }
+
+   .muser2 {
+    border: 3px solid blue;
+    margin-left: auto;
+    margin-right: auto;
+    width: 6em; 
+
+   
+   }
+
+   .anim3 {
+    border: 3px solid blue;
+    margin-left: auto;
+    margin-right: auto;
+    width: 6em;
+    
+
+   }
+
+   .search-position{
+    display: flex;
+    justify-content: center;
+    
+        
+}
+
+.postion-choix {
+  justify-content: center;
+  display:flex;
+  margin-left: auto;
+  margin-right: auto;
+  width: 10em;
+  
+}
+ 
